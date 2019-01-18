@@ -1,4 +1,7 @@
 # codeacademy_ruby2
-Second codeacademy project for ruby
-
+codeacademy projects for ruby
+in script 1
 learn if else and also some new string methods
+in script 2
+learn loops and iterators
+
