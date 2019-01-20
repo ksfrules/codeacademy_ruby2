@@ -6,3 +6,5 @@ in script 2
 learn loops and iterators
 in script 3
 learn about hashes and operations with them
+in script 4
+learn about methods, blocks and sorting a little
